@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "ChinaMap",
+  "id": "grafana-chinamap-panel",
+
+  "info": {
+    "description": "ChinaMap panel for grafana",
+    "author": {
+      "name": "xxx Inc.",
+      "url": "http://xxx.cn"
+    },
+    "keywords": ["ChinaMap", "panel"],
+    "version": "1.0.0",
+    "updated": "2015-03-24"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}

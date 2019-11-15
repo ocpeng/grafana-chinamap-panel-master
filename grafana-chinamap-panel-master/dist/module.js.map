@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["ChinaMapCtrl"],"mappings":";;;;;;;;AAAQA,kB,kBAAAA,Y;;;2BAGNA,Y","file":"module.js","sourcesContent":["import {ChinaMapCtrl} from './chinamap_ctrl';\n\nexport {\n  ChinaMapCtrl as PanelCtrl\n};"]}
