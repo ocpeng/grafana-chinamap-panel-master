@@ -20,5 +20,5 @@ service grafana restart
 
 # 4. demo图片
 * https://github.com/ocpeng/grafana-plugins/tree/master/grafana-chinamap-panel-master/demo/
-![Image text](https://raw.githubusercontent.com/ocpeng/master/grafana-chinamap-panel-master/master/grafana-chinamap-panel-master/demo/chinamap01.png)
-![Image text](https://raw.githubusercontent.com/ocpeng/master/grafana-chinamap-panel-master/master/grafana-chinamap-panel-master/demo/chinamap02.png)
+![Image text](https://raw.githubusercontent.com/ocpeng/master/grafana-chinamap-panel-master/grafana-chinamap-panel-master/demo/chinamap01.png)
+![Image text](https://raw.githubusercontent.com/ocpeng/master/grafana-chinamap-panel-master/grafana-chinamap-panel-master/demo/chinamap02.png)
