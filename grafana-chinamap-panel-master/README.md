@@ -19,6 +19,5 @@ service grafana restart
 * 注意：back_city_code 必须为城市编码，还有format as方框内选择Table，必须必须必须
 
 # 4. demo图片
-* https://github.com/ocpeng/grafana-plugins/tree/master/grafana-chinamap-panel-master/demo/
+![Image text](https://raw.githubusercontent.com/ocpeng/grafana-chinamap-panel-master/master/grafana-chinamap-panel-master/demo/chinamap01.png)
 ![Image text](https://raw.githubusercontent.com/ocpeng/grafana-chinamap-panel-master/master/grafana-chinamap-panel-master/demo/chinamap02.png)
-![Image text](https://raw.githubusercontent.com/ocpeng/master/grafana-chinamap-panel-master/grafana-chinamap-panel-master/demo/chinamap02.png)
