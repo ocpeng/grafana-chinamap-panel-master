@@ -489,13 +489,14 @@ System.register(['./lib/echarts.min'], function (_export, _context) {
             console.log("render!!");
             if (!ctrl.map) {
                 ctrl.map = MapChart.newInstance(mapContainer, {});
-                ctrl.map.update();
+                //ctrl.map.update();
                 window.setTimeout(function () {
-                    MapChart.show();
+                    ctrl.map.container.setOption(ctrl.map.option);
+                    ctrl.map.update();
                 }, 500);
             } else {
                 ctrl.map.update();
-                MapChart.show();
+                //MapChart.show();
             }
 
             //布局地图
