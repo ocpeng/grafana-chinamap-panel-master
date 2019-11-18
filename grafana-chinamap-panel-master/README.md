@@ -23,6 +23,7 @@ service grafana restart
 
 
 # 4. demo图片
+* 全国地图，点击可下钻到城市
 ![Image text](https://raw.githubusercontent.com/ocpeng/grafana-chinamap-panel-master/master/grafana-chinamap-panel-master/demo/chinamap01.png)
 * 点击可以下钻到城市
 ![Image text](https://raw.githubusercontent.com/ocpeng/grafana-chinamap-panel-master/master/grafana-chinamap-panel-master/demo/chinamap02.png)
