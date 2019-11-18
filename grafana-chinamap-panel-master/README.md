@@ -1,5 +1,7 @@
 # 亮点：grafana将中国地图与MySQL数据源结合
+* grafana版本v6.2.5
 * 对https://github.com/sunnut/grafana-chinamap-panel进行二次开发
+
 
 # 1. 安装
 直接将插件复制到grafan目录下，默认目录为/var/lib/grafana/plugins/
