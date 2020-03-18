@@ -12,15 +12,8 @@ service grafana-server start
 
 
 # 3. 选择MySQL数据源，填写SQL
-* SELECT
-*   UNIX_TIMESTAMP(date_format(create_time,'%Y-%m-%d')) as time_sec,
-*   ifnull(count(*),0) as value,
-*   back_city_code,
-*   "长租"  as metric
-* FROM order1
-* WHERE $__timeFilter(create_time)
-* group by back_city_code
-* 注意：back_city_code 必须为城市编码，还有format as方框内选择Table，必须必须必须
+* 使用方法腾讯课堂-搜：grafana运维监控与数据分析
+* 或者，网易云课堂-搜：grafana运维监控与数据分析
 
 
 # 4. demo图片
