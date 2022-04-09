@@ -36,6 +36,6 @@
   "dependencies": {
     "echarts": "^3.6.2",
     "lodash": "~4.0.0",
-    "moment": "^2.12.0"
+    "moment": "^2.29.2"
   }
 }
